@@ -1,5 +1,7 @@
 # Project-4-AIRBNB
 AIRBNB ANALYSIS
+
+
 **MongoDB Connection and Data Retrieval:**
    Established a connection to the MongoDB Atlas cluter database and retrieved the Airbnb dataset and dataset converted into DataFrame
 
